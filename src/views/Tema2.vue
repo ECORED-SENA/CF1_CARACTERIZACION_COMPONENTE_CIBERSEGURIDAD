@@ -30,11 +30,6 @@
 
     p.mb-5 Los pilares de la información son un eje principal para garantizar la protección no solo de los activos de la organización, sino también se convierten en un instrumento de valoración a los servicios prestados por un sistema a una organización donde la información es protagonista de este proceso. Existen muchos factores que pueden evitar el correcto desempeño de estos pilares, los cuales se pueden ver inmersos en intereses externos o internos que no favorecen la calidad y procesos de negocio que realiza la organización. 
 
-
-
-
-
-
     .row.justify-content-center.mb-5
       .col-lg-8
         .bloque-texto-c.color-secundario.p-4
@@ -48,9 +43,7 @@
 <script>
 export default {
   name: 'Tema2',
-  data: () => ({
-    // variables de vue
-  }),
+  data: () => ({}),
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()

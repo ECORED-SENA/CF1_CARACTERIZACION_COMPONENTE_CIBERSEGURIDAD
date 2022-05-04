@@ -116,9 +116,7 @@ export default {
   components: {
     BotonesA,
   },
-  data: () => ({
-    // variables de vue
-  }),
+  data: () => ({}),
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()

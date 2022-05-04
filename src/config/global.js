@@ -4,8 +4,8 @@ export default {
       'Introducción a la ciberseguridad y delitos informáticos',
     descripcionCurso:
       'En este componente formativo se tratarán los temas de normatividad en la ciberseguridad, pilares de la seguridad informática y buenas prácticas en la navegación.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
   },
   menuPrincipal: {
     menu: [

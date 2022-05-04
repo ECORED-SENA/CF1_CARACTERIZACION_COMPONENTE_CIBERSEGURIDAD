@@ -9,7 +9,7 @@
       
     p.mb-5 La seguridad de la información está dirigida por una normatividad que permite establecer los límites de uso y manipulación de la información. 
 
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
+    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="fade-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img01.png')})`}"
       )
@@ -17,12 +17,12 @@
         p.mb-4 La información se ha convertido en el activo más importante para las organizaciones del Siglo XXI, pues permiten desarrollar la competitividad de las empresas y realizar sus procesos misionales de manera óptima.
 
     .row.BG01.p-4.justify-content-center
-      .col-lg-10
+      .col-lg-10(data-aos="fade-right")
         p La ciberseguridad, entonces, se encarga de que esa normatividad se aplique de manera correcta. La información se encuentra caracterizada en privada, pública y sensible; para cada una se debe realizar un manejo específico, tal como se aprecia en el siguiente recurso:
 
     .row.BG01.mb-4 
       .col-lg-1
-      .col-lg-7
+      .col-lg-7(data-aos="fade-right")
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
@@ -49,7 +49,7 @@
         .cajon.color-secundario.p-4.mb-4
           p La Ley 1273 crea un bien jurídico llamado “De la protección de la información y de los datos”, el cual está contemplado en el Código Penal colombiano donde la información y los datos se convierten en un activo propio de cada individuo. Por lo tanto, se debe cumplir con las características para ser determinante con las sanciones y multas establecidas.
     
-    .BG04.p-4.mb-4
+    .BG04.p-4.mb-4(data-aos="fade-right")
       p.mb-5 El documento Conpes, por su parte, comprende los diversos grupos que conforman la Policía Nacional de Colombia para el manejo de las diferentes normatividades que se aplican en el país. En la figura que podrán apreciar a continuación, se ilustran las diferentes asistencias y apoyo que se brinda en caso de existir un delito que viole la privacidad de los datos o información de una persona o ciudadano:
 
       .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
@@ -57,9 +57,9 @@
         span Comisión intersectorial
 
       .row.justify-content-center.mb-5
-        .col-lg-10.mb-4
+        .col-lg-10.mb-4(data-aos="fade-right")
           img(src='@/assets/curso/tema1/img04.png')
-        .col-lg-6.BG03.p-3
+        .col-lg-6.BG03.p-3(data-aos="fade-right")
           p Nota. Adaptado de Conpes 3701 (2011).
 
     p.mb-5 Ahora bien, existe un modelo de investigación criminal para la ciberseguridad en el cual se puede comprender el alcance y magnitud que pueden tener los delitos a la ciberseguridad. A continuación, se puede observar los diferentes tipos de fraudes cometidos en las organizaciones, que también atentan contra los ciudadanos: 
@@ -68,14 +68,14 @@
       span Modelo de investigación criminal
     
     .row.justify-content-center.mb-5
-      .col-lg-10.mb-4
+      .col-lg-10.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema1/img05.svg')
-      .col-lg-6.BG03.p-3
+      .col-lg-6.BG03.p-3(data-aos="fade-right")
         p Nota. Tomado de Policía Nacional (2014).
 
     p.mb-5 Sabiendo lo anterior, es preciso conocer que existen diferentes modalidades de fraude como se puede evidenciar; sin embargo, se abordaran los más comunes, encontrando: 
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-right")
       BotonesA.h-100
       
     separador
@@ -89,17 +89,17 @@
       h5 Figura 4.
       span Componentes de la ciberseguridad
     
-    figure
+    figure(data-aos="fade-right")
       img(src='@/assets/curso/tema1/img06.png')
     
     .row.justify-content-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="fade-right")
         .cajon.color-secundario.subir-25.p-4.mb-4
           p Estos componentes deben estar debidamente alineados con la política de seguridad establecida por la empresa, es decir, se deben establecer protocolos, planes y procesos que permitan tomar decisiones en un momento determinado.
     
     p.mb-5 Los componentes de la ciberseguridad juegan un papel importante dentro de las organizaciones, debido al impacto que pueden ocasionar en un ataque informático o incidente de seguridad.
 
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
+    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="fade-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img07.png')})`}"
       )

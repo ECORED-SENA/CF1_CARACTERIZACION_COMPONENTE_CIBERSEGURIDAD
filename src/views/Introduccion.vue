@@ -10,11 +10,11 @@
 
     p.mb-5 El componente formativo “Introducción a la ciberseguridad y delitos informáticos” pretende brindar los conocimientos iniciales para realizar una adecuada comprensión sobre la caracterización de los componentes de la ciberseguridad en un ambiente empresarial y productivo. A continuación, se explicarán las temáticas a desarrollar y la importancia de las mismas:
     
-    figure.mb-5
+    figure.mb-5(data-aos="fade-right")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
      
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/intro/img01.png')})`}"
       )

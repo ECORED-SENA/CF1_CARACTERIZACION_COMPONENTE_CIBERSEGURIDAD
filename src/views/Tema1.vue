@@ -14,7 +14,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img01.png')})`}"
       )
       .bloque-texto-g__texto.p-5(data-aos="fade-left")
-        p.mb-4 La información se ha convertido en el activo más importante para las organizaciones del Siglo XXI, pues permiten desarrollar la competitividad de las empresas y realizar sus procesos misionales de manera óptima.
+        p.my-5.mb-5 La información se ha convertido en el activo más importante para las organizaciones del Siglo XXI, pues permiten desarrollar la competitividad de las empresas y realizar sus procesos misionales de manera óptima.
 
     .row.BG01.p-4.justify-content-center
       .col-lg-10(data-aos="fade-right")
@@ -42,7 +42,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+        .titulo-sexto.color-secundario.mb-5(data-aos="fade-right")
           h5 Figura 1.
           span Ley 1273 de 2009, delitos informáticos
         img(src='@/assets/curso/tema1/img03.svg')
@@ -52,26 +52,26 @@
     .BG04.p-4.mb-4(data-aos="fade-right")
       p.mb-5 El documento Conpes, por su parte, comprende los diversos grupos que conforman la Policía Nacional de Colombia para el manejo de las diferentes normatividades que se aplican en el país. En la figura que podrán apreciar a continuación, se ilustran las diferentes asistencias y apoyo que se brinda en caso de existir un delito que viole la privacidad de los datos o información de una persona o ciudadano:
 
-      .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+      .titulo-sexto.color-secundario.mb-5(data-aos="fade-right")
         h5 Figura 2.
         span Comisión intersectorial
 
       .row.justify-content-center.mb-5
         .col-lg-10.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema1/img04.png')
-        .col-lg-6.BG03.p-3(data-aos="fade-right")
-          p Nota. Adaptado de Conpes 3701 (2011).
+          img(src='@/assets/curso/tema1/img04.svg')
+        .col-lg-6.BG03.p-1(data-aos="fade-right")
+          p.mb-0.ms-5 Nota. Adaptado de Conpes 3701 (2011).
 
     p.mb-5 Ahora bien, existe un modelo de investigación criminal para la ciberseguridad en el cual se puede comprender el alcance y magnitud que pueden tener los delitos a la ciberseguridad. A continuación, se puede observar los diferentes tipos de fraudes cometidos en las organizaciones, que también atentan contra los ciudadanos: 
-    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+    .titulo-sexto.color-secundario.mb-5(data-aos="fade-right")
       h5 Figura 3.
       span Modelo de investigación criminal
     
     .row.justify-content-center.mb-5
       .col-lg-10.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema1/img05.svg')
-      .col-lg-6.BG03.p-3(data-aos="fade-right")
-        p Nota. Tomado de Policía Nacional (2014).
+      .col-lg-6.BG03.p-1(data-aos="fade-right")
+        p.mb-0.ms-5 Nota. Tomado de Policía Nacional (2014).
 
     p.mb-5 Sabiendo lo anterior, es preciso conocer que existen diferentes modalidades de fraude como se puede evidenciar; sin embargo, se abordaran los más comunes, encontrando: 
 
@@ -85,7 +85,7 @@
 
     p.mb-5 Dentro de los componentes de la ciberseguridad se encuentra que para realizar un proceso correcto de gestión de la información se debe involucrar tres agentes importantes que son las personas, la tecnología y los servicios tecnológicos soportados. En la siguiente figura se expone en qué consiste cada uno:
 
-    .titulo-sexto.color-acento-contenido.mb-0(data-aos="fade-right")
+    .titulo-sexto.color-secundario.mb-0(data-aos="fade-right")
       h5 Figura 4.
       span Componentes de la ciberseguridad
     
@@ -99,7 +99,7 @@
     
     p.mb-5 Los componentes de la ciberseguridad juegan un papel importante dentro de las organizaciones, debido al impacto que pueden ocasionar en un ataque informático o incidente de seguridad.
 
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="fade-right")
+    .bloque-texto-g.color-acento-contenido.item-left.p-3.p-sm-4.p-md-5(data-aos="fade-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img07.png')})`}"
       )

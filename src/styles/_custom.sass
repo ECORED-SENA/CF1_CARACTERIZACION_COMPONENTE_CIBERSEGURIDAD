@@ -1,3 +1,11 @@
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/fondo-banner-principal.png") !important
+  background-repeat: no-repeat
+
+.banner-principal__info
+  padding-left: 80px  !important
+  z-index: 3
+
 .bloque-texto-g.color-acento-contenido
   background-color: #A7B4FF
 
@@ -33,6 +41,14 @@
   background-size: cover
   background-repeat: no-repeat
   background-position: center
+
+.BGIMG06
+  background-image: url("../assets/curso/tema2/img05.jpg")
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  height: 100%
+  width: 100%
 
 .BG04
   background-color:#fff
@@ -79,10 +95,34 @@
 .bloque-texto-g__texto
   right: 40%
 
+@media screen and (max-width: 992px) and (min-width: 0px)
+  .bloque-texto-g__img
+    left: 0%
+  
+  .bloque-texto-g__texto
+    right: 0%
+  
+  .subir-25
+    top: 0%
+
+
+.item-left .bloque-texto-g__img
+  left: 0%
+
+.item-left .bloque-texto-g__texto
+  right: 50%
+  left: 0%
+
 .img01
   height: 90%
   position: relative
   top: 30px
+
+.img02
+  position: relative
+  max-width: 150%
+  width: 105%
+  left: -4%
 
 .tarjeta--azul
   background-color: #D0D7FF

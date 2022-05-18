@@ -11,7 +11,7 @@
     @mouseleave="hover = null"
   )
     .indicador--hover(v-if="index === 0 && indicador")
-    .btns__text.p-4(v-if="index === hover")  
+    .btns__text.p-lg-4.p-2(v-if="index === hover")  
       h4 {{boton.titulo}}
         italic {{boton.italic}}
       p {{boton.texto1}}
@@ -125,7 +125,7 @@ export default {
 @media (max-width: $bp-max-md)
   .btns__item
     width: 8% !important
-    padding: 10%
+    padding: 7%
 
   .btns_item--0
     top: 0.5% !important
@@ -148,13 +148,13 @@ export default {
   .btns__text
     width: 330px
   .btns_item--0 .btns__text
-    left: 180% !important
+    left: 300% !important
   .btns_item--1 .btns__text
-    left: 90%
+    left: 175%
   .btns_item--2 .btns__text
-    left: 10%
+    left: 50%
   .btns_item--3 .btns__text
     left: -50%
   .btns_item--4 .btns__text
-    left: -60%
+    left: -160%
 </style>

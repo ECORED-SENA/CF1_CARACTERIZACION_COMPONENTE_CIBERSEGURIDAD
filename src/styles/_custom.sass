@@ -104,6 +104,10 @@
   
   .subir-25
     top: 0%
+  
+  .img-infografica__card, .img-infografica-b__card
+    right: 10% !important
+  
 
 
 .item-left .bloque-texto-g__img
@@ -119,10 +123,18 @@
   top: 30px
 
 .img02
-  position: relative
-  max-width: 150%
-  width: 105%
-  left: -4%
+  position: absolute
+  width: 45%
+  right: 0
+  bottom: 1%
+@media screen and (max-width: 992px) and (min-width: 0px)
+  .img02
+    position: relative !important
+    width: 100%
+    right: -20%
 
 .tarjeta--azul
   background-color: #D0D7FF
+
+.titulo-sexto.color-secundario
+  border-left-color: #F55D8B

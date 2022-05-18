@@ -20,9 +20,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/intro/img01.png')})`}"
       )
       .bloque-texto-g__texto.p-5(data-aos="fade-left")
-        br
         p.my-5.mb-5 Se espera que al finalizar este componente tenga la habilidad para identificar y aplicar los pilares de la seguridad informática, manejar la normatividad de la ciberseguridad y aplicar prácticas de navegación segura.
-        br
 
 </template>
 

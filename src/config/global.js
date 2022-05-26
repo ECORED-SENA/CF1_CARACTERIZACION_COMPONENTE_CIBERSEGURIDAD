@@ -117,10 +117,6 @@ export default {
   },
   complementario: [
     {
-      texto: 'Componentes y normatividad asociados a la ciberseguridad',
-      tipo: 'Libro',
-    },
-    {
       texto: 'Normatividad aplicada a la ciberseguridad',
       tipo: 'Presentación',
       link: 'https://www.oas.org/juridico/spanish/cyber/cyb8_col.pdf',

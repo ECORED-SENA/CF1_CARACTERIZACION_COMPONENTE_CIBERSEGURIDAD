@@ -33,7 +33,7 @@ export default {
         pos_y: '56%',
         titulo: 'Ciberterrorismo',
         texto1:
-          'Se denomina así a toda actividad que utilice cualquier medio tecnológico para <b>generar problemas de orden público o social</b>, teniendo en cuenta que la difusión de esta información debe utilizar medios tecnológicos, ya sea redes sociales, correos "spam", entre otros. Estos eventos pueden estar relacionados con intimidación, secuestro de información o divulgación de información sensible o privada.',
+          'Se denomina así a toda actividad que utilice cualquier medio tecnológico para generar problemas de orden público o social, teniendo en cuenta que la difusión de esta información debe utilizar medios tecnológicos, ya sea redes sociales, correos "spam", entre otros. Estos eventos pueden estar relacionados con intimidación, secuestro de información o divulgación de información sensible o privada.',
       },
       {
         img: require('@/assets/curso/botones/img04.svg'),

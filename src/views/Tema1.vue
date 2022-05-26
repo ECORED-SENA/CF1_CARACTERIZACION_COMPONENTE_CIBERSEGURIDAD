@@ -45,7 +45,9 @@
         .titulo-sexto.color-secundario.mb-5(data-aos="fade-right")
           h5 Figura 1.
           span Ley 1273 de 2009, delitos informáticos
-        img(src='@/assets/curso/tema1/img03.svg')
+        figure
+          img(src='@/assets/curso/tema1/img03.svg')
+          figcaption Nota. Adaptado de Policía Nacional (2014).
         .cajon.color-secundario.p-4.mb-4
           p La Ley 1273 crea un bien jurídico llamado “De la protección de la información y de los datos”, el cual está contemplado en el Código Penal colombiano donde la información y los datos se convierten en un activo propio de cada individuo. Por lo tanto, se debe cumplir con las características para ser determinante con las sanciones y multas establecidas.
     
@@ -90,7 +92,7 @@
       span Componentes de la ciberseguridad
     
     figure(data-aos="fade-right")
-      img(src='@/assets/curso/tema1/img06.png')
+      img(src='@/assets/curso/tema1/img06.svg')
     
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-right")

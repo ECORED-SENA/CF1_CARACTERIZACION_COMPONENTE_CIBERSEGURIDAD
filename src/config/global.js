@@ -119,24 +119,22 @@ export default {
     {
       texto: 'Componentes y normatividad asociados a la ciberseguridad',
       tipo: 'Libro',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1i756fj/TN_cdi_elibro_books_ELB40458',
     },
     {
       texto: 'Normatividad aplicada a la ciberseguridad',
       tipo: 'Presentación',
-      descarga: 'https://www.oas.org/juridico/spanish/cyber/cyb8_col.pdf',
+      link: 'https://www.oas.org/juridico/spanish/cyber/cyb8_col.pdf',
     },
     {
       texto: 'Pilares de la seguridad informática',
       tipo: 'Artículo',
-      descarga:
+      link:
         'http://repository.unipiloto.edu.co/bitstream/handle/20.500.12277/2821/Trabajo%20de%20grado.pdf?sequence=1&isAllowed=y',
     },
     {
       texto: 'Buenas prácticas al momento de navegar en la Internet',
       tipo: 'Página web',
-      descarga: 'https://transparencyreport.google.com/safe-browsinzzg/search',
+      link: 'https://transparencyreport.google.com/safe-browsinzzg/search',
     },
   ],
   glosario: [
@@ -225,6 +223,27 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
+      {
+        nombre: 'Dulfran Antonio Montaño Montaño',
+        cargo: 'Experto temático',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+      },
+      {
+        nombre: 'Miroslava González Hernández',
+        cargo: 'Diseñadora instruccional',
+        centro:
+          'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Asesor metodológico',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+      },
+      {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Correctora de estilo',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+      },
     ],
     desarrolloProducto: [
       {
@@ -234,41 +253,66 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Edison Eduardo Mantilla Cuadros',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Estefani Daniela Gallo Cortés',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ludwyng Corzo García',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'John Jairo Arciniegas González',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'María Camila Ovalle Ospina ',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

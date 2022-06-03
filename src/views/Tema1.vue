@@ -52,7 +52,7 @@
           p La Ley 1273 crea un bien jurídico llamado “De la protección de la información y de los datos”, el cual está contemplado en el Código Penal colombiano donde la información y los datos se convierten en un activo propio de cada individuo. Por lo tanto, se debe cumplir con las características para ser determinante con las sanciones y multas establecidas.
     
     .BG04.p-4.mb-4(data-aos="fade-right")
-      p.mb-5 El documento Conpes, por su parte, comprende los diversos grupos que conforman la Policía Nacional de Colombia para el manejo de las diferentes normatividades que se aplican en el país. En la figura que podrán apreciar a continuación, se ilustran las diferentes asistencias y apoyo que se brinda en caso de existir un delito que viole la privacidad de los datos o información de una persona o ciudadano:
+      p.mb-5 El documento Conpes 3701, por su parte, comprende los diversos grupos que conforman la Policía Nacional de Colombia para el manejo de las diferentes normatividades que se aplican en el país. En la figura que podrán apreciar a continuación, se ilustran las diferentes asistencias y apoyo que se brinda en caso de existir un delito que viole la privacidad de los datos o información de una persona o ciudadano:
 
       .titulo-sexto.color-secundario.mb-5(data-aos="fade-right")
         h5 Figura 2.

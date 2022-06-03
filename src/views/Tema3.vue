@@ -57,7 +57,7 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 Los protocolos de navegación segura aplicados van desde configuraciones del sistema, hasta la aplicación de modelos informáticos que garanticen el acceso de los diferentes sitios y portales de Internet, sin necesidad de comprometer la información de los usuarios de los mismos; dichos protocolos permiten minimizar los riesgos de ser víctimas de ataques informáticos, pero siempre se debe tener en cuenta el factor humano, quien es el usuario que utiliza el sistema.
 
-    p.mb-5 Por otra parte, los protocolos de navegación segura incluyen una verificación por parte del usuario donde incluye tanto software como <em>hardware</em>, es decir, uno de los puntos importantes para que esto se convierta en una política de uso de la información es verificando los siguientes componentes:
+    p.mb-5 Por otra parte, los protocolos de navegación segura incluyen una verificación por parte del usuario donde incluye tanto <em>software</em> como <em>hardware</em>, es decir, uno de los puntos importantes para que esto se convierta en una política de uso de la información es verificando los siguientes componentes:
   
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -91,8 +91,8 @@
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       .row.justify-content-center(titulo="Modo incógnito o modo seguro")
         .col-md-11.mb-4
-          p Uno método más común es utilizar el modo incógnito o modo seguro en el navegador, el cual evita que los rastros llamados #[i cookies], que son el rastro que van dejando las páginas navegadas en Internet, los cuales permite que las páginas o sitios puedan ser visitados con mayor rapidez; sin embargo, este rastro puede ser utilizado, ya que por ejemplo muchas veces las personas guardan contraseñas y datos registrados en formularios que dejan almacenados. Esto puede ser utilizado luego para cometer algún delito informático. 
-          p.mb-4 <b>Una protocolo a aplicar para la navegación segura es no guardar contraseñas o información dentro de las #[i cookies] del navegador y navegar mediante el modo seguro o incógnito</b>. En la siguiente imagen se observa dicho proceso
+          p Un método más común es utilizar el modo incógnito o modo seguro en el navegador, el cual evita que los rastros llamados #[i cookies], que son el rastro que van dejando las páginas navegadas en Internet, los cuales permite que las páginas o sitios puedan ser visitados con mayor rapidez; sin embargo, este rastro puede ser utilizado, ya que por ejemplo muchas veces las personas guardan contraseñas y datos registrados en formularios que dejan almacenados. Esto puede ser utilizado luego para cometer algún delito informático. 
+          p.mb-4 <b>Un protocolo a aplicar para la navegación segura es no guardar contraseñas o información dentro de las #[i cookies] del navegador y navegar mediante el modo seguro o incógnito</b>. En la siguiente imagen se observa dicho proceso
           .titulo-sexto.color-secundario.mb-0
             h5 Figura 6.
             span Ingreso a modo seguro o incógnito
